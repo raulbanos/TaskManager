@@ -27,8 +27,14 @@ cd TaskManager
 ### Adding a Task
 ![Add Task Screenshot](screenshots/add_task.png)
 
+### Editing a Task
+![Edit Task Screenshot](screenshots/edit_task.png)
+
 ### Console Interface
 ![Console Screenshot](screenshots/console.png)
+
+
+
 
 ## Project Structure
 - `main.py`: Entry point for the application.
