@@ -22,16 +22,16 @@ cd TaskManager
 ## Screenshots
 
 ### Graphical Interface
-![GUI Screenshot](screenshots/gui.png)
+![GUI Screenshot](Screenshots/gui.png)
 
 ### Adding a Task
-![Add Task Screenshot](screenshots/add_task.png)
+![Add Task Screenshot](Screenshots/add_task.png)
 
 ### Editing a Task
-![Edit Task Screenshot](screenshots/edit_task.png)
+![Edit Task Screenshot](Screenshots/edit_task.png)
 
 ### Console Interface
-![Console Screenshot](screenshots/console.png)
+![Console Screenshot](Screenshots/console.png)
 
 
 
