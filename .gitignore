@@ -1,0 +1,15 @@
+# Ignorar el archivo de tareas (para no compartir datos personales)
+tasks.json
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos temporales o de sistema
+*.log
+*.tmp
+
+# Ignorar entornos virtuales (si los usas)
+env/
+venv/
+*.env

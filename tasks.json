@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Study for Exam ",
+        "description": "",
+        "priority": "high",
+        "dueDate": "28-05-2025",
+        "completed": false
+    },
+    {
+        "title": "Buy Groceries ",
+        "description": "",
+        "priority": "medium",
+        "dueDate": "29-05-2025",
+        "completed": false
+    },
+    {
+        "title": "Clean Room ",
+        "description": "",
+        "priority": "low ",
+        "dueDate": "30-05-2025",
+        "completed": false
+    },
+    {
+        "title": "Take the dogs out for a walk",
+        "description": "",
+        "priority": "low",
+        "dueDate": "31-05-2025",
+        "completed": false
+    }
+]
